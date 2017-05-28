@@ -1,0 +1,14 @@
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/bin/Debug/netcoreapp1.1/PartyInvites.db
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/bin/Debug/netcoreapp1.1/PartyInvites.Tests.deps.json
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/bin/Debug/netcoreapp1.1/PartyInvites.Tests.runtimeconfig.json
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/bin/Debug/netcoreapp1.1/PartyInvites.Tests.runtimeconfig.dev.json
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/bin/Debug/netcoreapp1.1/PartyInvites.Tests.dll
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/bin/Debug/netcoreapp1.1/PartyInvites.Tests.pdb
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/bin/Debug/netcoreapp1.1/PartyInvites.dll
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/bin/Debug/netcoreapp1.1/PartyInvites.pdb
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/obj/Debug/netcoreapp1.1/PartyInvites.Tests.AssemblyInfo.cs
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/obj/Debug/netcoreapp1.1/PartyInvites.Tests.dll
+/home/boris/dotnet/PartyInvites/PartyInvites.Tests/obj/Debug/netcoreapp1.1/PartyInvites.Tests.pdb
